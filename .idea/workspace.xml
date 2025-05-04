@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cdfcd427-941a-433d-bd82-fbe51940c7f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/reflection/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reflection/CatMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/reflection/CatMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CatMain">
-    <configuration name="CatMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reflection.CatMain" />
+  <component name="RunManager" selected="Application.SwitchDemo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.lambdas.Demo" />
       <module name="DailyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reflection.*" />
+          <option name="PATTERN" value="java8.lambdas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataContainerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.datacontainer.DataContainerMain" />
+    <configuration name="DiceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticnonstatic.DiceMain" />
       <module name="DailyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.datacontainer.*" />
+          <option name="PATTERN" value="staticnonstatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.PairMain" />
+    <configuration name="FindLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.FindLargest" />
       <module name="DailyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.StreamExample" />
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.StreamDemo" />
       <module name="DailyJava" />
       <extension name="coverage">
         <pattern>
@@ -88,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.student.StudentMain" />
+    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchdemo.SwitchDemo" />
       <module name="DailyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.student.*" />
+          <option name="PATTERN" value="switchdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CatMain" />
-        <item itemvalue="Application.DataContainerMain" />
-        <item itemvalue="Application.PairMain" />
-        <item itemvalue="Application.StreamExample" />
-        <item itemvalue="Application.StudentMain" />
+        <item itemvalue="Application.SwitchDemo" />
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DiceMain" />
+        <item itemvalue="Application.FindLargest" />
       </list>
     </recent_temporary>
   </component>

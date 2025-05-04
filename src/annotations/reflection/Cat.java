@@ -1,4 +1,4 @@
-package reflection;
+package annotations.reflection;
 
 public class Cat {
 
