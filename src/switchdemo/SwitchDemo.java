@@ -56,6 +56,4 @@ public class SwitchDemo {
         System.out.println(weather);
     }
 
-
-
 }
